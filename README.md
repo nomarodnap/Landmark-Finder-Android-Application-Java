@@ -1,1 +1,0 @@
-# Landmark-Finder-Android-Application-Java
