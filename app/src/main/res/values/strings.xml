@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">เที่ยวไทย</string>
+    <string name="menu_add">เพิ่มลงที่คุณชื่นชอบ</string>
+    <string name="menu_delete">ลบจากที่คุณชื่นชอบ</string>
+    <string name="welcome">ยินดีต้อนรับ</string>
+    <string name="menu_filter">คัดกรองสถานที่</string>
+
+</resources>
