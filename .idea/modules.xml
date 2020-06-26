@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Landmark-Finder-Android-Application-Java-master.iml" filepath="$PROJECT_DIR$/.idea/modules/Landmark-Finder-Android-Application-Java-master.iml" group="Landmark-Finder-Android-Application-Java-master" />
       <module fileurl="file://$PROJECT_DIR$/PROJECT - Copy (3).iml" filepath="$PROJECT_DIR$/PROJECT - Copy (3).iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Landmark-Finder-Android-Application-Java-master/app" />
     </modules>
   </component>
 </project>
